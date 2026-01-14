@@ -43,7 +43,7 @@
 - Being better at web developement (Frontend and Backend)
 - Learning the basic and advanced things in different programming languages (JS, React, Python, TS)
 - Fulfilling my goal to be a IT development apprentice for the next two years
-- Making some projects i already planned
+- Do projects that i've been planning on doing for a long time
 
 
 ---
