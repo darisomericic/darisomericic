@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
----
+-----
 <p>Email: darisomericicpg@gmail.com</p>
 
 
