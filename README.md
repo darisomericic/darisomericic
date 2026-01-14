@@ -38,3 +38,20 @@
   </a>
 </p>
 
+### Socials:
+<p>
+ <a href="https://www.linkedin.com/in/daris-omericic-408b79381/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=canva" />
+  </a>
+</p>
+
+
