@@ -43,7 +43,7 @@
  <a href="https://www.linkedin.com/in/daris-omericic-408b79381/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:dinmail@eksempel.no">
+  <a href="mailto:darisomericicpg@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
