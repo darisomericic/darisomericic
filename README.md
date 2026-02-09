@@ -1,6 +1,6 @@
 ## Hi there, my name is Daris 👋
 
-### 🖥️ These are the tools i have worked with so far: 
+### 🖥️ These are the languages & tools i have worked with so far: 
 ----
 <p>
   <a href="https://www.javascript.com/" target="_blank">
