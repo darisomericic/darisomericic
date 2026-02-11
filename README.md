@@ -1,41 +1,20 @@
 ## Hi there, my name is Daris 👋
-
-### 🖥️ These are the languages & tools i have worked with so far: 
 ----
-<p>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=canva" />
-  </a>
+## 🚀 Tech Stack
+
+### 🖥 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+</p>
+
+### ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql&perline=3" />
+</p>
+
+### 🛠 Tools & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,canva&perline=4" />
 </p>
 
 ---
