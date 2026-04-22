@@ -1,6 +1,6 @@
-<div align= "center">
 
-<h1> Hi there, my name is Daris 👋 </h1>
+
+<h1 align= "center"> Hi there, my name is Daris 👋 </h1>
 
 ---
 ### ⚒️ Languages and tools i have worked with: 
