@@ -14,7 +14,7 @@
 
 ---
 ### 📲 Contact:
-<p style= align-items: "center">
+<p>
  <a href="https://www.linkedin.com/in/daris-omericic-408b79381/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
