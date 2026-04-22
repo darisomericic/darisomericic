@@ -1,3 +1,5 @@
+<div align= "center">
+
 ## Hi there, my name is Daris 👋
 ----
 ### ⚒️ Languages and tools i have worked with: 
@@ -22,4 +24,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
+</div>
 
